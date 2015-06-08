@@ -1,0 +1,23 @@
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Northwind40.sdf
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Dropbox\PI 2010\2013\Vjezbe\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Northwind40.sdf
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+D:\Desktop\Prilozi\Prilozi\3.4 - Deployment\SampleApplication\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
